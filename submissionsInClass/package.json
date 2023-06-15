@@ -1,0 +1,21 @@
+{
+  "name": "submissionsinclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jes": "^0.6.1"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
